@@ -2,10 +2,10 @@
 _Last Update: November 12, 2025_
 
 <p align = "center"><img src = "ui_sample.png"></p>
-<p align = "center">Figure 1. Screenshot of the Python (Tkinter) UI which enters the duration (0-1000 ms) the LED turns ON and OFF (right widget). The plot on the left shows the waveform of the controlled LED blinking, but it does not correspond to the real-time blinking.</p>
+<p align = "center"><b>Figure 1.</b> Screenshot of the Python (Tkinter) UI which enters the duration (0-1000 ms) the LED turns ON and OFF (right widget). The plot on the left shows the waveform of the controlled LED blinking, but it does not correspond to the real-time blinking.</p>
 
 <p align = "center"><img src = "led_blink_with_waveform.png"></p>
-<p align = "center">Figure 2. Screenshot of the equivalent and similar waveform in Arduino with the serial plotter.</p>
+<p align = "center"><b>Figure 2.</b> Screenshot of the equivalent and similar waveform in Arduino with the serial plotter.</p>
 
 
 ## Background
